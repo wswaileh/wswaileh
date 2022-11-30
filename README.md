@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/wswaileh" target="blank"><img src="https://img.shields.io/twitter/follow/wswaileh?logo=twitter&style=for-the-badge" alt="wswaileh" /></a> </p>
 
-- 🔭 I’m currently working as **a full-stack engineer on an enterprise level web applications portal for one of the top 10 Technology Companies in the world for internal employees to improve working processes by working on cutting edge web technologies and trends (Angular, Spring and Postgresql).**
+- 🔭 Currently I am **a full-stack engineer at Apple working on an enterprise level web applications portal for internal employees to improve working processes by working on cutting edge web technologies and trends (Angular, Spring and Postgresql).**
 
 - 🌱 I’m currently learning **React**
 
